@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="name">Name</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="description">Description</string>
+    <string name="upload_a_photo_of_yourself">Upload a photo of yourself:</string>
+    <string name="update">Update</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="first_name">First Name</string>
+    <string name="what_s_your_phone_number">What\'s your phone number?</string>
+    <string name="your_phone_number">Your phone number</string>
+    <string name="what_s_your_email">What\'s your email?</string>
+    <string name="your_email_address">Your email address</string>
+</resources>
