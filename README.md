@@ -10,7 +10,7 @@
 Fork and download this repository, or conduct the following steps in your terminal:
 
 ```
-git clone https://github.com/hhp09/AG/Profile.git
+git clone https://github.com/hhp09/AG_Profile.git
 ```
 
 The following steps are needed to setup and run the project:
